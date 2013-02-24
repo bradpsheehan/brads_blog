@@ -13,8 +13,37 @@
     / Included CSS Files
     = stylesheet_link_tag "app", "theme"
     = javascript_include_tag "foundation/modernizr.foundation"
-    
+
   %body{class: page_classes}
+
+    / Basic Needs
+    .fixed
+      %nav.top-bar
+        %ul
+          %li.name
+            %h1
+              %a{:href => "/"} Bradley Sheehan
+          %li.toggle-topbar
+            %a{:href => "#"}
+        %section
+          %ul.left
+            %li
+              /%a{:href => "#"} Link
+          %ul.right
+            %li
+              %a{:href => "http://www.twitter.com/bradleysheehan1"} Twitter
+            %li
+              %a{:href => "https://github.com/bradpsheehan"} GitHub
+            %li
+              %a{:href => "http://www.linkedin.com/pub/bradley-sheehan/1b/ab7/a48"} LinkedIn
+            %li
+              %a{:href => "http://www.behance.net/bradsheehan"} Behance
+
+    .row#content
+      .twelve.columns
+        .row#about-me
+          .twelve.columns
+            %img(src="/images/blog/LOGO.png")
     .row
       .twelve.columns
         %h2
