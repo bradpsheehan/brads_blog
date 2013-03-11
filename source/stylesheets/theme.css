@@ -1,9 +1,10 @@
 body {
-  background: url('./images/BehanceBack.png/' fixed no-repeat);
+  background: #eeeeee;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
   color: #222222;
+  background: url('./images/BehanceBack.png/' fixed no-repeat);
 }
 a {
   color: #2f84c2;
@@ -56,7 +57,7 @@ h6,
 }
 .top-bar {
   opacity: .93;
-  background: #111111;
+  background: #142c68;
   box-shadow: 0px 0px 5px #444;
 }
 a.logo {
@@ -81,6 +82,9 @@ div.panel {
   background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
   background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  border-radius: 6px;
+  box-shadow: 0px .9px .9px #9a9a9b;
+
 }
 .blue.button {
   background-color: #2f84c2;
