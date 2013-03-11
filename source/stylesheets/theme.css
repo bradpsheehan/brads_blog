@@ -1,10 +1,9 @@
 body {
-  background: #eeeeee;
+  background: url('./images/BehanceBack.png/' fixed no-repeat);
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
   color: #222222;
-  background: url('./images/blog/' fixed no-repeat);
 }
 a {
   color: #2f84c2;
