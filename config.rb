@@ -44,6 +44,7 @@ page "robots.txt", layout: false
 page "humans.txt", layout: false
 page "feed.xml", layout: false
 page "style.html", layout: "raw"
+page "resume.html", :layout => "resume_page"
 
 
 #

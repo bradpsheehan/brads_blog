@@ -1,10 +1,9 @@
 body {
-  background: #eeeded;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
   color: #222222;
-  background: url('./images/BehanceBack.png/' fixed no-repeat);
+  background: url('../images/blog/BehanceBack.png') fixed no-repeat !important;
 }
 a {
   color: #2f84c2;
@@ -85,6 +84,13 @@ div.panel {
   border-radius: 6px;
   box-shadow: 0px 1px 1px #9a9a9b;
 
+}
+.row#content {
+background: white;
+padding-top: 1em;
+margin-top: 2.5em;
+border-radius: 2px;
+box-shadow: 0px 1px 1px #9a9a9b;
 }
 .blue.button {
   background-color: #2f84c2;
