@@ -4,6 +4,8 @@ body {
   line-height: 18px;
   color: #222222;
   background: url('../images/blog/BehanceBack.png') fixed no-repeat !important;
+  padding-top: 46px;
+  padding-bottom: 46px;
 }
 a {
   color: #2f84c2;
