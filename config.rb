@@ -13,6 +13,13 @@ require "zurb-foundation"
 ###
 # Page options, layouts, aliases and proxies
 ###
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
+
+activate :syntax,
+         :linenos => 'inline',
+         :anchorlinenos => true,
+         :linenostart => 2
 
 Time.zone = 'US/Mountain'
 
@@ -23,7 +30,7 @@ activate :blog do |blog|
   # blog.taglink = "tags/:tag.html"
   blog.layout = "article_layout"
   blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
+  blog.summary_length = 300
   # blog.year_link = ":year.html"
   # blog.month_link = ":year/:month.html"
   # blog.day_link = ":year/:month/:day.html"
@@ -44,7 +51,7 @@ page "robots.txt", layout: false
 page "humans.txt", layout: false
 page "feed.xml", layout: false
 page "style.html", layout: "raw"
-page "resume.html", :layout => "resume_page"
+page "resume.html", :layout => "no_side_bar"
 
 
 #

@@ -85,7 +85,11 @@ div.panel {
   background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
   border-radius: 6px;
   box-shadow: 0px 1px 1px #9a9a9b;
-
+  height: 300px;
+  margin-bottom: 60px;
+}
+.row{
+  padding: 0px 10px;
 }
 .row#content {
 background: white;
@@ -262,11 +266,41 @@ footer.row {
   border-top: solid 1px #DDD;
   padding: 4em 0px;
 }
-#about-me {
+#logo {
   margin-top: 40px;
 }
-#about-me img {
+#logo img {
   width: 141px;
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+.article-summary {
+  overflow: hidden;
+  height: 200px;
+}
+div.image_panel {
+  background: #efefef;
+  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
+  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  border-radius: 6px;
+  box-shadow: 0px 1px 1px #9a9a9b;
+  height: 300px;
+  margin-bottom: 60px;
+}
+
+div.image_left {
+  margin-right: 60px;
+}
+
+div.image_right {
+  margin-left: 60px;
+}
+.change-page {
+  width: 40px;
+  font-family: 'PT Sans', sans-serif;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}

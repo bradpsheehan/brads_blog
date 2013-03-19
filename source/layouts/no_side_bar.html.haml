@@ -11,7 +11,7 @@
     %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
     %title= data.page.title
     / Included CSS Files
-    = stylesheet_link_tag "app", "theme", "ghfm"
+    = stylesheet_link_tag "app", "theme"
     = javascript_include_tag "foundation/modernizr.foundation"
 
   %body{class: page_classes}
@@ -27,11 +27,9 @@
             %a{:href => "#"}
         %section
           %ul.left
-            %li
+            %lis
               /%a{:href => "#"} Link
           %ul.right
-            / %li
-            /   %a{:href => "http://www.twitter.com/bradleysheehan1", :target => "_blank"} Twitter
             %li
               %a{:href => "http://www.linkedin.com/pub/bradley-sheehan/1b/ab7/a48", :target => "_blank"} LinkedIn
             %li
@@ -48,35 +46,5 @@
             %a{:href => "/" }
               %img(src="/images/blog/LOGO.png")
     .row#content
-      = yield
-      / / Application Javascript, safe to override
-      / = javascript_include_tag "app"
-      / %aside.four.columns
-      /   .panel
-      /     - if paginate
-      /       %p
-      /         Page
-      /         = page_number
-      /         of
-      /         = num_pages
-      /   %dl.tabs
-      /     %dd.active
-      /       %a{href: "#recent"} Recent Articles
-      /     %dd
-      /       %a{href: "#tags"} Tags
-      /   %ul.tabs-content
-      /     %li#recentTab.active
-      /       %h4 Recent Articles
-      /       %ul.disc
-      /         - blog.articles[0...10].each do |article|
-      /           %li
-      /             %a{href: "#{article.url}"}
-      /               = article.title
-      /             %span= article.date.strftime('%b %e')
-      /     %li#tagsTab
-      /       %h4 Tags
-      /       %ul.disc
-      /         - blog.tags.each do |tag, articles|
-      /           %li
-      /             %a{href: "#{tag_path tag}"}
-      /               = "#{tag} (#{articles.size})"
+      .twelve.columns
+        = yield
