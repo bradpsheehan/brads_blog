@@ -51,12 +51,10 @@ page "robots.txt", layout: false
 page "humans.txt", layout: false
 page "feed.xml", layout: false
 page "style.html", layout: "raw"
-page "resume.html", :layout => "no_side_bar"
 
 
-#
 # With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
+page "resume.html", :layout => "no_side_bar"
 #
 # A path which all have the same layout
 # with_layout :admin do

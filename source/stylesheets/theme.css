@@ -307,7 +307,6 @@ div.image_right {
 }
 .ls.columns.six {
   text-align: right;
-  border-right: 2px solid;
 }
 .ls, ul#res_list, li {
   list-style: none;
@@ -315,6 +314,8 @@ div.image_right {
 }
 .rs.columns.six {
   text-align: left;
+  border-left: 2px solid;
+  border-color: #9ea2a3;
 }
 .rs, ul#res_list, li {
   list-style: none;
