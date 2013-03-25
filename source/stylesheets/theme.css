@@ -304,3 +304,18 @@ div.image_right {
   margin-left: auto;
   display: block;
 }
+.ls.columns.six {
+  text-align: right
+}
+.ls, ul#res_list, li {
+  list-style: none;
+  list-style-type: none;
+}
+.rs.columns.six {
+  text-align: left;
+}
+.rs, ul#res_list, li {
+  list-style: none;
+  list-style-type: none;
+}
+
