@@ -307,6 +307,7 @@ div.image_right {
 }
 .ls.columns.six {
   text-align: right;
+  border-right: 2px solid;
 }
 .ls, ul#res_list, li {
   list-style: none;
