@@ -94,6 +94,7 @@ div.panel {
 .row#content {
 background: white;
 padding-top: 1em;
+padding-bottom: 2em;
 margin-top: 2.5em;
 border-radius: 2px;
 box-shadow: 0px 1px 1px #9a9a9b;
@@ -305,7 +306,7 @@ div.image_right {
   display: block;
 }
 .ls.columns.six {
-  text-align: right
+  text-align: right;
 }
 .ls, ul#res_list, li {
   list-style: none;
