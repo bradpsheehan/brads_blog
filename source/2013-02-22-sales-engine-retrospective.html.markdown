@@ -2,6 +2,7 @@
 title: Sales Engine Retrospective
 date: 2013-02-22 09:07 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 The Sales Engine project was a good learning experience.  Kareem Grant, my pair, was a great partner.  He was very dedicated and worked long hours to accomplish the goal of not only finishing the base expectations but also working through some of the extensions.  Additionally, he showed effort in making sure that I was understanding our approach to tackling the project specs at different points in the process.  Having never pair-programmed before, I found myself adjusting my 'prime work hours' to fit those of my pair.  That is, I normally work best in the early morning and throughout the day, whereas Kareem seemed to work well at night and was able to produce solid work during the late hours.  So, I worked later into the night more often during this project than I probably would have working solo.

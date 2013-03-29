@@ -15,11 +15,11 @@ per_page: 10
                 %span= article.date.strftime('%b %e')
               .article-summary
                 = article.summary
-          .four.columns.image_panel.image_right
-            / %img(src="/images/blog/LOGO.png")
+          .four.image_panel.image_right.right
+            %img(src="#{article.data.image}")
         -else
-          .four.columns.image_panel.image_left
-            / %img(src="/images/blog/LOGO.png")
+          .four.image_panel.image_left.left
+            %img(src="#{article.data.image}")
           .seven.columns.panel
             %p
               %h3

@@ -2,6 +2,7 @@
 title: Eloquent Ruby
 date: 2013-02-17 21:57 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 I found Olsen's description of the difference between symbols and strings to be helpful.  His basic point here is that strings are used to hold some data that we are processing and that symbols are used to 'stand for' something.  It was helpful to know that there can only every be one instance of any given symbol, whereas setting two variables equal to the same string does not make them the same object.  Knowing this basic difference of strings and symbols will help me know when to use one instead of the other.

@@ -2,6 +2,7 @@
 title: Ridin' Rails & Becoming a Devloper
 date: 2013-03-22 09:07 -06:00
 tags:
+image: /images/blog/rail_tracks.jpg
 ---
 
 After six weeks of the course we had a focus week that helped lock in some of the gears of Ruby basics that were kind of 'slipping' (i.e. kind of catching but not enought to really keep up to speed) while I worked through the first couple of projects.  Now that we had this reivew, If feel more competent as a developer and like I will really be able to do and learn more from the rest of the course.  I am energized and ready for the next four months at gSchool and for moving into the professional world as a developer.  Of course, as alaways, there is lot more to learn!

@@ -2,6 +2,7 @@
 title: One Month, Five to Go
 date: 2013-03-01 09:03 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 One month in to gSchool and I am feeling pretty good.  Considering that I started with no background in coding I feel that I have definitely made some good progress.  However, despite feeeling a little more confident with the basics of Ruby, it is till a bit hard to envision myself doing this professionally in only 5 months.  Don't get me wrong, that's still the goal and I will get there, but right now, when put on the spot writing code, whether its a daily warmup or working with a partner on a project I often feel nervous and slow.  Sometimes I even feel like "Damn, maybe I should have just stuck with design."  After a moment of thinking this way I will usually remind myself that challenging myself, streching myself, tapping into another part of my brain is a GOOD THING.  This kind of growth experience is, well, just that, a growth experience.  It is helping me expand not only my skillset, which will help me professionally, but also my understanding of the world and the way information and logic play a role in our lives.  There is so much to learn about programming, and being a highly visual learner, it is hard to come to grips with the fact that there is so much about technology that can't be 'seen.'  Thus, there might always be a degree of mystery and magic to this tech world.  It's simultanoeusly scary and fascinating.

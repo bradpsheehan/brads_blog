@@ -282,17 +282,25 @@ footer.row {
 }
 div.image_panel {
   background: #efefef;
-  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+/*  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
-  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);*/
   border-radius: 6px;
+  -moz-border-radius:6px; /* Old Firefox */
   box-shadow: 0px 1px 1px #9a9a9b;
   height: 300px;
+  width: 300px;
   margin-bottom: 60px;
+}
+.image_panel img {
+  height: 100%;
+  width: 100%;
+  border-radius: 6px;
+  -moz-border-radius:6px; /* Old Firefox */
 }
 
 div.image_left {
-  margin-right: 60px;
+  margin-right: 80px;
 }
 
 div.image_right {

@@ -2,6 +2,7 @@
 title: Intentionality
 date: 2013-02-10 20:50 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 There were many aspects of 'The Passionate Programmer' that I liked.  One among them was the "Act on it!" section with which Fowler concluded each section of his book.  This was an important element insofar as it helped set a tone of intentionality upon which the rest of his thoughts were built.  Fowler's take on life and career development is underpinned by philsophical references, musical metaphores, and his thoughts on love, passion, and progress. He balances this with recurrent actionable suggestions aimed at 'materializing' the aforementioned musings.  I think that 'intentionality' is one of the over-arching themes/messages of the book.  To achieve satisfaction, which the book suggests might not mean a 300K salary from Microsoft, we must both think critically about what we are passionate, or even just curious about, and also actively establish disciplines which will spur progress toward the vision that we set out for.

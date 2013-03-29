@@ -2,6 +2,7 @@
 title: Combining HTML & CSS
 date: 2013-03-18 07:47 -06:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 

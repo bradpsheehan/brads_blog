@@ -2,6 +2,7 @@
 title: Emerging
 date: 2013-03-15 09:13 -06:00
 tags:
+image: /images/blog/gears_and_stuff.jpg
 ---
 
 This week was the most fun I have had so far in the class.  It was fun and extremely helpful in helping me emerge from some confusion or lack of understanding that I had about various basic Ruby concepts.  I and six other people spent the week with Katrina hammering out a few different programs that helped us practice unit testing and other skills like iterating through arrays and hashes.  These concepts are basic not because they are 'easy' but insofar as they are fundamental to almost all programs that I (we) will write.  It's concepts like these that I was gaining an understanding of throughout the first month at gSchool, but without the hands on instruction for which we are paying.  Afterall, I decided to come to a school to learn Ruby rather than learn it on my own so that, among other things, I would get first class *instruction*.  I feel that the entire class, not just my group, could have benefitted from more focused instruction upfront.   I don't mean to speak ill of our teachers, because they truly are first class.  I guess I was just expecting a bit more focused instruction on the basic within the first 6 weeks.  Thankfully the teachers recognized the differentiated needs of the class at this point in time rather than later in the course.

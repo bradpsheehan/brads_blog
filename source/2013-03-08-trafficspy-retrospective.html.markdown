@@ -2,6 +2,7 @@
 title: TrafficSpy Retrospective
 date: 2013-03-08 09:03 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 Introducing...THE WEB(...and DATABASES)!!  The Traffic Spy was a challenging project because it brought to the table what seemed like a lot of new concepts, two of the biggies being, the web and databases.  I now have a better idea of how developing for both of these things works, but there is still much to be learned, and I am sure there always will be.  Once again, I must say that the life-long learning aspect of programming is very appealing to me.  My project partner and I decided to pair at the beginning of the project to get the wheels rolling.  Subsequently, he took the reins on the database side of things and I lead the Sinatra and front end side of the project.  We had to maintian good communication throghout the project to make this kind of delegation worked.  For example, it was important that I know how the databases and tables worked so that I could implement their logic in the Sinatra code.  It will be interesting to see how much I actually grasped the concept of databases when we kick of the next project, which will likely build on the concepts that we explored in Traffic Spy.

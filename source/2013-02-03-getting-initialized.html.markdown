@@ -2,6 +2,7 @@
 title: Getting Initialized
 date: 2013-02-03 15:44 -07:00
 tags:
+image: /images/blog/LOGO.png
 ---
 
 So far, I have enjoyed reading "The Passionate Programmer."  Being a musician myself (percussionist) makes Fowler's musical analogies resonate with me in a personal way.  That being said, his suggestion of 'Be the Worst' resonates with my experience in the University of Notre Dame Marching Band.  Having never taken drum lessons prior to college, reading drum music was something that I did not know how to do, and, despite my desire to walk on to the drumline, was required to get in the band.  So, without much of a clue about reading music, I tried out for the band, and after making it through three surprisingly intense days of 'band camp,' I did not make the cut.  Long story short, I spent much of the next year taking lessons and practicing the drum cadences which resulted in my name being placed on the glorified band roster.  And so began my stint in a 450 person band that played in front of +80,000 people every Saturday of the fall and winter.

@@ -2,6 +2,7 @@
 title: Event Reporter Retrospective
 date: 2013-02-08 09:07 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 The Event Reporter project introduced us to writing a program that would load a csv file, parse it's data, and allow the user to searching specific items within the data file.

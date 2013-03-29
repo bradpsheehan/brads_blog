@@ -2,6 +2,7 @@
 title: SalesEngine & Becoming a Developer
 date: 2013-02-15 09:05 -07:00
 tags:
+<!-- image: /images/blog/eloquent-ruby.jpg -->
 ---
 
 Week three of gSchool and we are in the thick of the SalesEngine project.  The project itself has been working my brain, and the pairing process has added an interesting social dimension to the project.  As a person that is still fresh in the coding game I think that the pairing process has been, on the whole, a good thing for me.  My pair is more knowledgeable than I am about programming and Ruby and he has been good about making sure I get what we are doing on any given step before we move forward to the next.  Of course, even with his explanations and patience, I still don't fully 'get' everything that we are doing.  That being said, it has been good having a pair for the sake of moving the project forward efficiently.  Thus far in the gSchool programm I have heard, more than once, that the social component of the creative process is harder and more important that the programming itself.  Fortunatley, I feel that social interactions generally come naturally to me and therefore working with a pair has not deterred my learning and work flow.
