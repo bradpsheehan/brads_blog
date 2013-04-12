@@ -2,7 +2,7 @@
 title: Mentoring and Legacy Code
 date: 2013-04-12 11:14 -06:00
 tags:
-image:
+image: images/blog/photo-1.JPG
 ---
 
 This week I kicked off mentoring with Brian Rose.  Brian currently works for Factory Labs as the Director of Application Development, but will be helping Pivitol Labs open its Denver office in a month or so.  That will be sweet because I will likely see him at Galvanize more frequently.  Brian and I met earlier this week and got to know eachother a bit better.  He has an interesting background and a lot of programming experience for only being 27 years old.  So far, I have not tapped into Brian for all that much for assistance with the Son of Store Engine project, but will likely be doing that soon.  It is nice to know that I have him (and all of the other mentors) as a resource throughout the remain three months of gSchool.
