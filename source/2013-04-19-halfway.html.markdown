@@ -2,8 +2,7 @@
 title: Halfway
 date: 2013-04-19 15:24 -06:00
 tags:
-<!-- image: images/blog/
- -->
+image: images/blog/torn-paper.jpg
 ---
 
 This last project was a great learning experience.  We experienced some of the struggles of working with legacy code, including (in my group) not having constant access to the person that wrote the original code, because he was in San Franisco.  I also learned that not testing makes me uncomfortable and reduces my ability to understand the code that I am working with, therefore reducing my ability to speak to the code in a code review setting, to my peers, and to myself.  Next project I will make sure that we are doing real TDD, even if it means not getting all of the features finished by the deadline.  Afterall, I believe that being well tested  is more important than being 'feature complete' by deadline.
