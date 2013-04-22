@@ -79,25 +79,26 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #efefef;
-  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: #FFFFFF;
+  /*background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
-  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);*/
+  /*box-shadow: 0px 1px 1px #9a9a9b;*/
   border-radius: 6px;
-  box-shadow: 0px 1px 1px #9a9a9b;
   height: 300px;
   margin-bottom: 60px;
+  box-shadow: 0px 1px 1px #9a9a9b;
+  border: none;
+  padding: 20px;
 }
 .row{
   padding: 0px 10px;
 }
 .row#content {
-background: white;
 padding-top: 1em;
 padding-bottom: 2em;
 margin-top: 2.5em;
 border-radius: 2px;
-box-shadow: 0px 1px 1px #9a9a9b;
 }
 .blue.button {
   background-color: #2f84c2;
@@ -281,7 +282,7 @@ footer.row {
   height: 200px;
 }
 div.image_panel {
-  background: #efefef;
+  background: #FFFFFF;
 /*  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
   background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);*/
@@ -297,6 +298,7 @@ div.image_panel {
   width: 100%;
   border-radius: 6px;
   -moz-border-radius:6px; /* Old Firefox */
+  border: none;
 }
 
 div.image_left {
