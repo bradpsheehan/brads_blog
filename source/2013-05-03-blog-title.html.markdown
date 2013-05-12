@@ -1,0 +1,11 @@
+---
+title: Blog Title
+date: 2013-05-03 09:10 -06:00
+tags:
+image: images/blog/
+---
+
+Our work process for the DoSE Project project was different/better in some ways than that of the SoSE project.  Namely, we started by fixing broken test of SoSE and then proceeded to test drive the new features.  Fixing the old test gave me a much better understanding of the code I was working with an test driving the new features made them work a lot better than had we not Test Drove.  Another thing we did differently this time around was to After being in so deep with this code base for the last six weeks, I am ready to start the next project.  I think learning how to work with legacy code is a good thing, but I also think knowing how to start from scratch is important exercise that will ensure that I know and understand the different pieces of a Rails App.
+
+Next week we will start both consuming and producing APIs.  It sounds quite interesting to be able to make my applications work in tandem with other applications, however, integrating with other APIs makes me a bit nervous in that my application will be subject to the way others built their applications, which in some cases may be less than ideal.  When working with APIs it seems important to remember that you, more often than not, do not have control over the API you are consuming. This means that running a business that relies heavily on the proper functioning of another application should beware and build plans that can support their business regardless of the whims of another app.  In this regard it seems as though working with APIs can be a risk and requires a certain amount of trust.  That is, trust that the developers who build the API were smart about how they built their application.  Now, at three months into my programming career, I have learned that trust is an important part of programming in general, whether it's trusting the people that you are working with or trusting the code that you inherit.  That being said, I have also learned that you can make your code more trusworthy if it is built on solid tests.
+
