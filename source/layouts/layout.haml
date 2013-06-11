@@ -10,7 +10,6 @@
     / Set the viewport width to device width for mobile
     %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
     %title= data.page.title
-    / Included CSS Files
     = stylesheet_link_tag "app", "theme", "ghfm"
     = javascript_include_tag "foundation/modernizr.foundation"
     
@@ -48,36 +47,5 @@
           .twelve.columns
             %a{:href => "/" }
               %img(src="/images/blog/LOGO.png")
-    .row#content
+    .row#blog-splash
       = yield
-      / / Application Javascript, safe to override
-      / = javascript_include_tag "app"
-      / %aside.four.columns
-      /   .panel
-      /     - if paginate
-      /       %p
-      /         Page
-      /         = page_number
-      /         of
-      /         = num_pages
-      /   %dl.tabs
-      /     %dd.active
-      /       %a{href: "#recent"} Recent Articles
-      /     %dd
-      /       %a{href: "#tags"} Tags
-      /   %ul.tabs-content
-      /     %li#recentTab.active
-      /       %h4 Recent Articles
-      /       %ul.disc
-      /         - blog.articles[0...10].each do |article|
-      /           %li
-      /             %a{href: "#{article.url}"}
-      /               = article.title
-      /             %span= article.date.strftime('%b %e')
-      /     %li#tagsTab
-      /       %h4 Tags
-      /       %ul.disc
-      /         - blog.tags.each do |tag, articles|
-      /           %li
-      /             %a{href: "#{tag_path tag}"}
-      /               = "#{tag} (#{articles.size})"

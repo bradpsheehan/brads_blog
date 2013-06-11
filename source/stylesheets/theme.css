@@ -99,6 +99,13 @@ padding-top: 1em;
 padding-bottom: 2em;
 margin-top: 2.5em;
 border-radius: 2px;
+background-color: white;
+}
+.row#blog-splash {
+padding-top: 1em;
+padding-bottom: 2em;
+margin-top: 2.5em;
+border-radius: 2px;
 }
 .blue.button {
   background-color: #2f84c2;
@@ -322,7 +329,7 @@ div.image_right {
   list-style: none;
   list-style-type: none;
 }
-.rs.columns.six {
+.rs {
   text-align: left;
   border-left: 2px solid;
   border-color: #9ea2a3;
@@ -330,5 +337,15 @@ div.image_right {
 .rs, ul#res_list, li {
   list-style: none;
   list-style-type: none;
+}
+.res-purpose {
+  background-color: #da662a;
+  height: 80px;
+  color: white;
+  text-align: left;
+  padding: 2%;
+  padding-left: 4%;
+  overflow: scroll;
+  border-radius: 3px;
 }
 
