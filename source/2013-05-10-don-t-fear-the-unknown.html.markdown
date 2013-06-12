@@ -2,7 +2,7 @@
 title: Don't Fear the Unknown
 date: 2013-05-10 11:18 -06:00
 tags:
-image: images/blog/
+image: images/blog/robot_icon.png
 ---
 
 Just started a new project!  We are building an application that helps runners and friends unite.  Through our site they can organize group runs and subsequently view data about the individuals on those runs by using and connecting their Fitbit, Nike+, RunTracker, DailyMile, MapMyFitness (to name a few we are thinking of) to our site.  So, we will be integrating with those APIs to make that work.  It feels like this is a legit product that people would want to use.  I like the fact that we are focusing on running rather than trying to make it a broader, less focused, health and fitness app.  I have heard that building apps that have all of the bells and whistles, and try and solve every problem are often less successful than those that specialize in solving one or maybe two problems.

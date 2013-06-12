@@ -1,8 +1,8 @@
 ---
-title: Blog Title
+title:
 date: 2013-05-03 09:10 -06:00
 tags:
-image: images/blog/
+image: images/blog/blank.jpg
 ---
 
 Our work process for the DoSE Project project was different/better in some ways than that of the SoSE project.  Namely, we started by fixing broken test of SoSE and then proceeded to test drive the new features.  Fixing the old test gave me a much better understanding of the code I was working with an test driving the new features made them work a lot better than had we not Test Drove.  Another thing we did differently this time around was to After being in so deep with this code base for the last six weeks, I am ready to start the next project.  I think learning how to work with legacy code is a good thing, but I also think knowing how to start from scratch is important exercise that will ensure that I know and understand the different pieces of a Rails App.
