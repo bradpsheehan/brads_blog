@@ -98,7 +98,7 @@ div.panel {
 padding-top: 1em;
 padding-bottom: 2em;
 margin-top: 2.5em;
-border-radius: 2px;
+border-radius: 6px;
 background-color: white;
 }
 .row#blog-splash {
@@ -348,4 +348,34 @@ div.image_right {
   overflow: scroll;
   border-radius: 3px;
 }
+#bio {
+  height: 300px;
+  margin-bottom: 60px;
+  background-color: white;
+  border-radius: 6px;
+  padding: 2%;
+}
+
+#bio img {
+  height: 260px;
+  width: 260px;
+  border-radius: 6px;
+}
+
+.bio-content {
+  float: right;
+  text-align: left;
+  width: 70%;
+}
+
+.bio-content p {
+  font-size: 16px;
+}
+
+/*.bio-content h3 {
+  float: right;
+  text-align: right;
+  width: 50%;
+}*/
+
 
