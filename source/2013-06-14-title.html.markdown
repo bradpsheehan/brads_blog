@@ -1,0 +1,9 @@
+---
+title: title
+date: 2013-06-14 14:27 -06:00
+tags:
+image: blog/images/blank.jpg
+---
+
+Getting back into a group after the individual project feels good.  I have been almost exclusively pair-programming this week and we have covered more ground than I did in the first week working on my own, and I feel good about our code, as we have been following TDD.  As for Service Oriented Architecture, I feel like I am understanding the overarching concepts so far, but that the implementation details are a bit fuzzy.  Additionally, I feel like our constructing a SOA is a bit contrived in this setting.  That is, we would probably not be doing SOA on a project this small and ‘simple’.  We spoke with Paul Dix, author of ‘Service Oriented Design with Ruby’, and he said that it’s kind of a rule of thumb to ‘not have more services than you have developers’ and to not do SOA until ‘you really have to.’  Currently we have planned out three services for our app and we have four developers, so we are good on that front.  I think working with services will be a good experience that many junior developers might not have, something that I can say I’ve touched even if the environment was not totally realistic.  More next week on how this project is treating us.
+
