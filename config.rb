@@ -21,7 +21,7 @@ activate :syntax,
          :anchorlinenos => true,
          :linenostart => 2
 
-Time.zone = 'US/Eastern'
+Time.zone = 'US/Mountain'
 
 activate :blog do |blog|
   # blog.prefix = "blog"
